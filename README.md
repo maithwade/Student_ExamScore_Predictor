@@ -30,3 +30,6 @@ This project demonstrates:
   - Model selection using GridSearchCV
   - Model evaluation (RMSE, R²)
   - Model deployment with Streamlit
+
+<img width="747" height="633" alt="Screenshot 2026-02-21 at 7 07 08 PM" src="https://github.com/user-attachments/assets/09a43fe7-042d-4ffd-b19e-ce90229251c0" />
+
